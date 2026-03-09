@@ -1,11 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 
-//Bootstrap
+// Bootstrap
 import "bootstrap/dist/css/bootstrap.min.css";
-import "bootstrap"
+import "bootstrap/dist/js/bootstrap.bundle.min.js";
 
-// index.css'
+// index.css
 import '../styles/index.css'
 
 // components
