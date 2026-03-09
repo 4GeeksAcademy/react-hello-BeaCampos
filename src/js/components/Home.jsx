@@ -15,16 +15,28 @@ const Home = () => {
                 />
 				<div class="row">
 					<div class="col-3">
-						<Card />
+						<Card 
+						url="https://picsum.photos/350/200?random=1"
+						title="Titulo 1"
+						/>
 					</div>
 					<div class="col-3">
-						<Card />
+						<Card 
+						url="https://picsum.photos/350/200?random=2"
+						title="Titulo 2"
+						/>
 					</div>
 					<div class="col-3">
-						<Card />
+						<Card 
+						url="https://picsum.photos/350/200?random=3"
+						title="Titulo 3"
+						/>
 					</div>
 					<div class="col-3">
-						<Card />
+						<Card 
+						url="https://picsum.photos/350/200?random=4"
+						title="Titulo 4"
+						/>
 					</div>
 				</div>
 			</div>
